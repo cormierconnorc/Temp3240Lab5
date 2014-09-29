@@ -1,1 +1,1 @@
-This is the repository's readme.
+This is the repository's readme (with a conflicting change).
