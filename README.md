@@ -1,1 +1,1 @@
-This is the repository's readme (with a locally-created conflict).
+This is the repository's readme (with conflicts resolved).
