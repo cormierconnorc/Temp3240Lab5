@@ -1,6 +1,6 @@
 __author__ = 'ccc9ww'
 
-from helper import greeting
+from middle_man import refer_greeting
 
 if __name__ == '__main__':
-    greeting("hello")
+    refer_greeting("hello")
